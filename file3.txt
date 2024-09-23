@@ -1,3 +1,11 @@
-Este é o exemplo de um ficheiro de texto file3
-fiz porcaria entao
-vou dar commit again
+<h2>Listas de coisas</h2>
+
+
+<h2>Comidas</h2>
+
+<ul>
+	<li>Bolos</li>
+	<li>Tostas</li>
+	<li>Sandes</li>
+</ul>
+
