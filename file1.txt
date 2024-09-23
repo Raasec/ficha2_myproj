@@ -1,1 +1,2 @@
 fiz uma alteração neste file
+Alterações efetuadas no branch NovaFeature
